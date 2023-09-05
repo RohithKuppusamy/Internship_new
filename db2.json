@@ -1,0 +1,11 @@
+{
+  "EVENTS": [
+    {
+      "EventName": "Republic Day",
+      "EventDescription": "Flag Hoisting",
+      "EventDate": "2023-08-15",
+      "FromTime": "12:00",
+      "ToTimme": "12:30"
+    }
+    ]
+}
