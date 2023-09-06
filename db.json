@@ -1,11 +1,11 @@
 {
   "EVENTS": [
     {
-      "EventName": "Republic Day",
-      "EventDescription": "Flag Hoisting",
-      "EventDate": "2023-08-15",
-      "FromTime": "12:00",
-      "ToTimme": "12:30"
+      "eventName": "Republic Day",
+      "eventDescription": "Flag Hoisting",
+      "eventDate": "2023-08-15",
+      "fromTime": "12:00",
+      "toTimme": "12:30"
     }
     ]
 }
